@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619629892 source:c:\users\erica\documents\github\encryption-assignment-erica-buchanan\buchanan_wordsearch\main.cpp
+	<iostream>
+	<fstream>
+	<apmatrix.h>
+	<vector>
+	<string.h>
+
